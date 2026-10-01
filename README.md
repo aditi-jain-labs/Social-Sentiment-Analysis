@@ -252,7 +252,7 @@ The notebook can also be uploaded and executed using **Google Colab**.
 
 ---
 
-## 💡 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 This project demonstrates practical experience across data science, machine learning, and NLP, including:
 
@@ -272,7 +272,7 @@ This project demonstrates practical experience across data science, machine lear
 
 ---
 
-## 🔍 Key Takeaways
+## Key Takeaways
 
 One of the main findings from this project was that **accuracy alone is not sufficient for evaluating a classification model**.
 
@@ -288,7 +288,7 @@ The predictions from these models are combined using **majority voting**, result
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 The project could be extended in several ways:
 
@@ -304,7 +304,7 @@ The project could be extended in several ways:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Aditi Jain**
 
