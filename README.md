@@ -197,7 +197,7 @@ TweetSense/
 └── data/
     └── README.md
 ```
-### 🚀 Getting Started
+### Getting Started
 
 Follow the steps below to run the project locally.
 
