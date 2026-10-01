@@ -197,8 +197,9 @@ TweetSense/
 └── data/
     └── README.md
 
+---
 
-Getting Started
+## Getting Started
 1. Clone the repository
 git clone <your-repository-url>
 cd TweetSense
@@ -223,7 +224,8 @@ notebooks/tweet_sentiment_analysis.ipynb
 
 The notebook can also be run using Google Colab.
 
-Key Skills Demonstrated
+---
+## Key Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -242,13 +244,13 @@ Ensemble learning
 Python-based data analysis
 Key Takeaways
 
-A major takeaway from the project was that selecting a model based purely on accuracy can hide weaknesses in individual classes.
+## A major takeaway from the project was that selecting a model based purely on accuracy can hide weaknesses in individual classes.
 
 Comparing precision, recall and F1-score alongside overall accuracy provided a better understanding of model behaviour.
 
 The project also demonstrates how different NLP approaches can complement one another. Rather than relying entirely on a single model, the final solution combines traditional machine learning with lexicon-based sentiment analysis through ensemble learning.
 
-Future Improvements
+## Future Improvements
 
 Several extensions could further develop TweetSense:
 
