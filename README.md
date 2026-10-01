@@ -312,7 +312,7 @@ Interested in building at the intersection of **data, artificial intelligence, m
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 This project was developed for educational and experimental purposes.
 
